@@ -10,9 +10,9 @@ Type your initials here to confirm you read the instructions:
 
 INSTRUCTOR EXAMPLE: What is a conditional statement?
 
-Your answer:
+Your answer: A condition statement is an if/else statement. It requires a condition to be met to output a response. 
 
-Researched answer:
+Researched answer: Conditional Statements are a way to handle decision in our application. They start with the keyword "if" and the evaluations result in a boolean value. 
 
 1. What is git? What is the difference between git and Github?
 

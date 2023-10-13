@@ -20,7 +20,20 @@ const fruit2 = "banana"
 // Expected outcome: "cherry"
 
 // Pseudo code:
+// input: two strings -> fruit1 = "apple" & fruit2 = "banana"
+// output: the string with more charaters -> "banana"
+// use a condition statement to evaluate strings
+// use .length to get number of charaters 
+// use realtional operator to compare
 
+
+if(fruit1.length > fruit2.length){
+  console.log(fruit1)
+}else{
+  console.log(fruit2)
+}
+
+//output: banana
 
 // --------------------1) Create the code that will combine the two arrays and return the length using the test variables provided below.
 

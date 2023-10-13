@@ -10,8 +10,8 @@
 const colors = ["tangerine", "magenta", "lilac", "daffodil"]
 // console.log(colors.push("indigo"))
 
-// a) Your answer:
-// b) Verify and explain:
+// a) Your answer: It will return the array with indigo at the end of the array ex. ["tangerine", "magenta", "lilac", "daffodil", "indigo"]
+// b) Verify and explain: I was wrong, because push return the length of the modified array. 
 
 // --------------------1) What will this log?
 
